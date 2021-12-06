@@ -1,18 +1,13 @@
 ### Hi there 👋
 
-![](./20211206_114055.jpeg =100x20
+<!-- ![](./20211206_114055.jpeg) -->
+<img src="./20211206_114055.jpeg" width="280" height="380">
 
-<!--
-**tugrulguner/tugrulguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Quantum Optics/Imaging and AI implementation on Quantum Optics/Imaging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning ML DevOps
+
+- 📫 How to reach me: https://www.linkedin.com/in/tugrulguner/
+
+
