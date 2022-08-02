@@ -4,9 +4,9 @@
 <img src="./20211206_114055.jpeg" width="280" height="380">
 
 
-- 🔭  I’m currently working on Quantum Optics/Imaging and AI implementation in Quantum Optics/Imaging
+- 🔭  I’m working as a MLOps Engineer at Novisto
 
-- 🌱  I’m currently learning ML DevOps especially Pipelines, Deployment, Diagnostics and Process Automation
+- 🌱  I’m currently focusing on building an entire pipeline by leveraging Dockers, FastAPI, Kubernetes, Azure DevOps
 
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/tugrulguner/)
 
