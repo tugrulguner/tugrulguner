@@ -4,9 +4,9 @@
 <img src="./20211206_114055.jpeg" width="280" height="380">
 
 
-- 🔭  I’m working as a MLOps Engineer at Novisto
+- 🔭  I’m working as a Senior MLOps Engineer at ArteriaAI
 
-- 🌱  I’m currently focusing on building an entire pipeline by leveraging Dockers, FastAPI, Kubernetes, Azure DevOps
+- 🌱  I’m currently focusing on using data-science team results to build AI features/products
 
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/tugrulguner/)
 
