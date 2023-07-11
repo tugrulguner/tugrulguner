@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!-- ![](./20211206_114055.jpeg) -->
-<img src="./20211206_114055.jpeg" width="280" height="380">
-
 
 - 🔭  I’m working as a Senior MLOps Engineer at ArteriaAI
 
