@@ -2,9 +2,7 @@
 
 **AI Engineering Manager at CDAI · Hands-on architect · Creator of [ModePot](https://modepot.io/)**
 
-I lead two cross-functional pods across more than six products, build high-performing teams, and stay hands-on architecting scalable, robust backend, AI, and agentic systems designed to adapt as products, models, and infrastructure change. I operate well under tight timelines and shifting priorities, making difficult tradeoffs without lowering engineering standards.
-
-In under six months, one pod reached **2.5× delivery velocity** and launched **three products**. Our work included a recommendation system that improved menu-item attachment rate **4×**.
+I lead AI engineering while staying hands-on with scalable, adaptable backend, AI, and agentic systems.
 
 ## ModePot
 
@@ -14,6 +12,12 @@ In under six months, one pod reached **2.5× delivery velocity** and launched **
 - **[Intpot](https://github.com/tugrulguner/intpot)** — define typed Python tools once and serve them through CLI, HTTP, or MCP.
 - **[Summonpot](https://github.com/tugrulguner/summonpot)** — contract-first APIs combining exact operations with bounded agent-owned decisions.
 - **[LifePot](https://github.com/tugrulguner/lifepot)** — a replayable artificial-life world where agent proposals become deterministic simulation rules.
+
+## Leadership
+
+I lead two separate cross-functional pods across a portfolio of more than six products. I build high-performing teams and operate well under tight timelines and shifting priorities, making difficult tradeoffs without lowering engineering standards.
+
+**Results:** In under six months, one pod reached **2.5× delivery velocity** and the team launched **three products**. Among those launches was a recommendation system that improved menu-item attachment rate **4×**.
 
 ## Open-source contributions
 
