@@ -25,7 +25,12 @@ Previously, I built Haptiq's AI team and first AI infrastructure, recruited and 
 
 ## Open-source contributions
 
-Beyond ModePot, I contribute to [Hermes Agent](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Atugrulguner) and [Superpowers](https://github.com/obra/superpowers/pulls?q=is%3Apr+author%3Atugrulguner). My public work includes a [merged Hermes Kanban reliability fix](https://github.com/NousResearch/hermes-agent/commit/44665783a936d173aba639ecd74483e0a6a016ce) and submitted improvements across agent skills, harness support, MCP, and tooling.
+Beyond ModePot, I have landed contributions in [Hermes Agent](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Atugrulguner) and [Superpowers](https://github.com/obra/superpowers/pulls?q=is%3Apr+author%3Atugrulguner):
+
+- **Hermes Agent:** [skill-install reliability](https://github.com/NousResearch/hermes-agent/commit/fba73a60e36a84e94736d309d6777bf2247a23eb), [gstack Skills Hub integration](https://github.com/NousResearch/hermes-agent/commit/614e43d3d95773778b838c751e3aa2b880231395), and [Kanban WebSocket disconnect handling](https://github.com/NousResearch/hermes-agent/commit/44665783a936d173aba639ecd74483e0a6a016ce).
+- **Superpowers (`dev` branch):** [Windows/Copilot hook support](https://github.com/obra/superpowers/commit/0a4d60db4faf3628abc3e6be4fc3e1a0697c69de) and [brainstorm-server shell-test reliability](https://github.com/obra/superpowers/commit/a0415daa1f33b00f3fe300f5c250a5beefafce4d).
+
+The linked pull-request histories also include work still under review.
 
 ## Scientific mindset
 
