@@ -12,6 +12,8 @@ I lead AI engineering teams and architect the systems they ship. I build high-pe
 - **[Intpot](https://github.com/tugrulguner/intpot):** define typed Python tools once and serve them through CLI, HTTP, or MCP, or convert existing applications between those interfaces.
 - **[Summonpot](https://github.com/tugrulguner/summonpot):** build API endpoints from simple typed contracts, combining exact application operations and bounded agent-owned decisions in one declaration.
 - **[LifePot](https://github.com/tugrulguner/lifepot):** an artificial-life game where AI proposes the ecology, deterministic code runs the world, and accepted changes are inspectable and replayable.
+- **[RefPot](https://github.com/tugrulguner/refpot):** an experimental native C++ embedded database with Python CRUD and explicit transactions. SQL and ORM remain planned.
+- **[UtilityPot](https://github.com/tugrulguner/utilitypot):** eight focused tools for data, text, diagrams, and planning. Five run locally in your browser; three use bounded AI after you ask.
 
 ## Leadership
 
