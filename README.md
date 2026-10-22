@@ -19,9 +19,9 @@ I lead AI engineering teams and architect the systems they ship. I build high-pe
 
 I lead two separate cross-functional pods across a portfolio of more than six products. I operate well under pressure and tight timelines, bring structure to ambiguity, and make difficult tradeoffs without lowering engineering standards.
 
-**Results:** In under six months, one pod reached **2.5× delivery velocity** and the team launched **three products**. That delivery improvement led to responsibility for a second, separate pod. I also helped deliver a recommendation system that improved menu-item attachment rate **4×**.
+**Results:** In under six months, one pod reached **2.5× feature and product delivery velocity** and the team launched **three products**. That delivery improvement led to responsibility for a second, separate pod. I also helped deliver a recommendation system that improved menu-item attachment rate **4×**.
 
-Previously, I built Haptiq's AI team and first AI infrastructure, recruited and led a seven-person team, and led technical delivery and client conversations for its first AI product, helping generate **more than $2 million in new revenue**.
+Previously, I built Haptiq's AI team and first AI infrastructure, recruited and led a seven-person team, and led technical delivery and client conversations for its first AI product, helping sell AI solutions and contributing to **more than $2 million in new revenue**.
 
 ## Open-source contributions
 
