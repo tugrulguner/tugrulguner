@@ -38,6 +38,7 @@ My earlier research in physics and materials science produced **30 journal publi
 
 ## Find me
 
+- [tugrul@modepot.io](mailto:tugrul@modepot.io)
 - [Personal site](https://tugrul.modepot.io/)
 - [ModePot](https://modepot.io/)
 - [LinkedIn](https://www.linkedin.com/in/tugrulguner/)
