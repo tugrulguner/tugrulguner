@@ -28,7 +28,7 @@ Previously, I built Haptiq's AI team and first AI infrastructure, recruited and 
 
 Beyond ModePot, I have landed contributions in [Hermes Agent](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Atugrulguner) and [Superpowers](https://github.com/obra/superpowers/pulls?q=is%3Apr+author%3Atugrulguner):
 
-- **Hermes Agent:** [skill-install reliability](https://github.com/NousResearch/hermes-agent/commit/fba73a60e36a84e94736d309d6777bf2247a23eb), [gstack Skills Hub integration](https://github.com/NousResearch/hermes-agent/commit/614e43d3d95773778b838c751e3aa2b880231395), and [Kanban WebSocket disconnect handling](https://github.com/NousResearch/hermes-agent/commit/44665783a936d173aba639ecd74483e0a6a016ce).
+- **Hermes Agent:** [skill-install reliability](https://github.com/NousResearch/hermes-agent/commit/fba73a60e36a84e94736d309d6777bf2247a23eb), [gstack Skills Hub integration](https://github.com/NousResearch/hermes-agent/commit/614e43d3d95773778b838c751e3aa2b880231395), [Kanban WebSocket disconnect handling](https://github.com/NousResearch/hermes-agent/commit/44665783a936d173aba639ecd74483e0a6a016ce), and [session-list performance through lineage caching](https://github.com/NousResearch/hermes-agent/commit/3e8e7bd3bfbffe9238d8d0684683ea08f78834e9).
 - **Superpowers (`dev` branch):** [Windows/Copilot hook support](https://github.com/obra/superpowers/commit/0a4d60db4faf3628abc3e6be4fc3e1a0697c69de) and [brainstorm-server shell-test reliability](https://github.com/obra/superpowers/commit/a0415daa1f33b00f3fe300f5c250a5beefafce4d).
 
 The linked pull-request histories also include work still under review.
@@ -44,4 +44,5 @@ My earlier research in physics and materials science produced **30 journal publi
 - [ModePot](https://modepot.io/)
 - [LinkedIn](https://www.linkedin.com/in/tugrulguner/)
 - [X](https://x.com/Tugrul_Guner)
+- [Substack](https://tugrulguner.substack.com/): AI, agentic systems, and the science behind them
 - [Passionately Curious](https://tugrulguner.beehiiv.com/): science for curious readers
