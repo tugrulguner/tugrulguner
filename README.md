@@ -14,7 +14,7 @@ I lead AI engineering teams and architect the systems they ship. I build high-pe
 - **[LifePot](https://github.com/tugrulguner/lifepot):** an artificial-life game where AI proposes the ecology, deterministic code runs the world, and accepted changes are inspectable and replayable.
 - **[RefPot](https://github.com/tugrulguner/refpot):** an experimental native C++ embedded database with Python CRUD and explicit transactions. SQL and ORM remain planned.
 - **[UtilityPot](https://github.com/tugrulguner/utilitypot):** eleven focused tools for data, text, diagrams, and planning. Eight run locally in your browser, including screenshot OCR, image redaction, and spreadsheet comparison; three use bounded AI after you ask.
-- **[SkillPot](https://github.com/tugrulguner/skillpot):** practical agent workflows for building, researching, and presenting real work. In development, with no installable skills yet. The first planned workflow turns a working project into an evidence-backed demo.
+- **[SkillPot](https://github.com/tugrulguner/skillpot):** a portable collection of ten practical agent skills, published as [v0.4.1](https://github.com/tugrulguner/skillpot/releases/tag/v0.4.1), for building, researching, and presenting real work. The project remains in active development; the collection does not establish universal host behavior or improved model performance.
 
 ## Leadership
 
